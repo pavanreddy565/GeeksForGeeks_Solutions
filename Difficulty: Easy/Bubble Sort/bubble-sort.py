@@ -4,7 +4,7 @@ class Solution:
     #Function to sort the array using bubble sort algorithm.
     def bubbleSort(self,arr, n):
         # code here
-        return arr.sort()
+        arr.sort()
 
 
 #{ 
