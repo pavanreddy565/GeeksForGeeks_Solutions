@@ -59,11 +59,15 @@ class GFG {
                 System.out.println("true");
             else
                 System.out.println("false");
-        }
+        
+System.out.println("~");
+}
     }
 }
 
 // } Driver Code Ends
+
+
 
 
 // User function template for JAVA
