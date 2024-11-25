@@ -55,11 +55,15 @@ class Driver_code {
             boolean f = new Solution().isPalindrome(head);
 
             System.out.println(f ? "true" : "false");
-        }
+        
+System.out.println("~");
+}
     }
 }
 
 // } Driver Code Ends
+
+
 
 
 /* Structure of class Node is
